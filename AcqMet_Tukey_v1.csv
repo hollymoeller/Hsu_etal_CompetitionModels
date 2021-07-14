@@ -1,0 +1,47 @@
+,Treatment,Species,Light_Level,Replicate,Experimental_Day,Cells,Growth_Rate
+1,Colp monoculture,Colp,0,A,17,2060,0.645721765
+2,Colp monoculture,Colp,0,B,10,2060,0.624438698
+3,Colp monoculture,Colp,0,C,10,1940,0.575646273
+4,Colp monoculture,Colp,50,A,9,2740,0.778378827
+5,Colp monoculture,Colp,50,B,9,2480,0.854501125
+6,Colp monoculture,Colp,50,C,9,2240,0.84957992
+7,Colp monoculture,Colp,100,A,9,2000,0.810301325
+8,Colp monoculture,Colp,100,B,13,2240,0.838205949
+9,Colp monoculture,Colp,100,C,6,2120,0.795313458
+10,Colp monoculture,Colp,200,A,8,1640,0.382869093
+11,Colp monoculture,Colp,200,B,12,1580,0.513755754
+12,Colp monoculture,Colp,200,C,17,1640,0.728922391
+13,Colp Competition,Colp,0,A,10,1500,0.638864298
+14,Colp Competition,Colp,0,B,33,2010,0.638521949
+15,Colp Competition,Colp,0,C,12,1480,0.675708015
+16,Colp Competition,Colp,50,A,10,1512.5,0.633888281
+17,Colp Competition,Colp,50,B,7,1500,0.680065532
+18,Colp Competition,Colp,100,A,7,660,0.39816947
+19,Colp Competition,Colp,100,B,10,860,0.500337285
+20,Colp Competition,Colp,100,C,26,1120,0.49974156
+21,Colp Competition,Colp,200,A,14,300,0.266152198
+22,Colp Competition,Colp,200,B,7,p,0.302447384
+23,Colp Competition,Colp,200,C,7,340,0.283664841
+1,P. bur monoculture,P bur,0,A,1,58,-0.117722634
+2,P. bur monoculture,P bur,0,B,4,40,-0.056964883
+3,P. bur monoculture,P bur,0,C,0,53,-0.046349429
+4,P. bur monoculture,P bur,50,A,48,855,0.144382435
+5,P. bur monoculture,P bur,50,B,26,165,0.061814029
+6,P. bur monoculture,P bur,50,C,37,1335,0.114475353
+7,P. bur monoculture,P bur,100,A,33,3240,0.148995226
+8,P. bur monoculture,P bur,100,B,46,4920,0.151741421
+9,P. bur monoculture,P bur,100,C,37,7380,0.164016667
+10,P. bur monoculture,P bur,200,A,40,4000,0.174369618
+11,P. bur monoculture,P bur,200,B,48,7300,0.162470988
+12,P. bur monoculture,P bur,200,C,51,6280,0.154498074
+13,P. bur Competition,P bur,0,A,0,55,-0.187450038
+14,P. bur Competition,P bur,0,B,0,51,-0.174890545
+15,P. bur Competition,P bur,0,C,0,36,-0.23021062
+16,P. bur Competition,P bur,50,A,33,430,0.135238983
+17,P. bur Competition,P bur,50,B,23,416.6666667,0.139201041
+18,P. bur Competition,P bur,100,A,30,595,0.128851329
+19,P. bur Competition,P bur,100,B,21,495,0.147294869
+20,P. bur Competition,P bur,100,C,38,970,0.159495372
+21,P. bur Competition,P bur,200,A,17,580,0.167267131
+22,P. bur Competition,P bur,200,B,19,675,0.16232038
+23,P. bur Competition,P bur,200,C,17,635,0.172601452
